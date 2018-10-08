@@ -1,0 +1,14 @@
+{
+    "learning_rate": 1e-3,
+    "batch_size": 48,
+    "num_epochs": 20,
+    "image_size": 224,
+    "save_summary_steps": 50,
+    "num_workers": 4,
+    "model": "densenet121",
+    "optim_restore": false,
+    "imgs_per_cat": 1000,
+    "mean": [0.084, 0.058, 0.056],
+    "std": [0.133, 0.091, 0.141],
+    "pretrained": true
+}
