@@ -1,4 +1,4 @@
-### Human Protein Atlas Image Classification
+### [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)
 #### Classify subcellular protein patterns in human cells
 ---
 This is my starter solution for the above kaggle challenge based on
